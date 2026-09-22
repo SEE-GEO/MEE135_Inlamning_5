@@ -11,7 +11,7 @@ Du behöver ha följande python-paket installerade för att kunna följa med i i
 - matplotlib
 - juypterlab
 
-Öppna filen `uppgift_5.ipynb` i JupyterLab via filhanteraren till vänster.
+Öppna filen `inlamning_5.ipynb` i JupyterLab via filhanteraren till vänster.
 
 ## Rapportera fel
 
